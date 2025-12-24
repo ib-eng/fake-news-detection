@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📰 Fake News Detection using NLP & Machine Learning
 
 ## 📌 Project Overview
@@ -55,3 +56,6 @@ Each record contains:
 ## 📊 Sample Output
 ```text
 Sample Prediction: FAKE NEWS
+=======
+
+>>>>>>> e942b0ae514418571d98d6df66ef94d3d30a72e8
